@@ -7,3 +7,4 @@
 
 ![Concept1](https://github.com/ChaeEun0112/UI-UX/blob/main/Concept1.jpg)
 ## 💡개요
+![Concept2](https://github.com/ChaeEun0112/UI-UX/blob/main/Concept2.jpg)
