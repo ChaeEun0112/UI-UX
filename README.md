@@ -4,7 +4,8 @@
 ## 💬의미
 >- 비건브레드 레시피를 제공하는 모바일 애플리케이션
 >- 건강하고 맛있는 비건브레드를 쉽게 만들 수 있도록 돕는 앱 서비스
-
-![Concept1](https://github.com/ChaeEun0112/UI-UX/blob/main/Concept1.jpg)
+- 앱 이름 '채식빵_ZIP
+  - 'Vegan Bread'의 한글 번역과 'ZIP'을 결합하여, 비건빵의 모음집 의미
+  - 발음상 '채식빵집'처럼 들리도록 하여 친근한 이미지 강조
 ## 💡개요
-![Concept2](https://github.com/ChaeEun0112/UI-UX/blob/main/Concept2.jpg)
+
