@@ -73,6 +73,6 @@
   -  Favorite 추가 및 주문 가능
 ![Store](https://github.com/ChaeEun0112/UI-UX/blob/main/Store.png)
 ## ✒️디자인
-> Adobe XD
+### Adobe XD
 
 https://xd.adobe.com/view/4af6d633-6279-48bf-9ebb-2ab444c07889-1fa5/
