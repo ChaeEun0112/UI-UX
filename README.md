@@ -40,6 +40,7 @@
 ![Menu](https://github.com/ChaeEun0112/UI-UX/blob/main/Menu.png)
 - Search
   - 돋보기 아이콘으로 레시피 검색 가능
+![Search](https://github.com/ChaeEun0112/UI-UX/blob/main/Search.png)
 - Favorite
   - 좋아하거나 다시 보고 싶은 레시피 저장
 - My page
