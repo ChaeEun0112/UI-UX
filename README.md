@@ -28,13 +28,16 @@
 - Login
   - Intro 이후 나타나는 로그인 화면
   - 앱 아이콘과 "Welcome" 메시지, 다양한 로그인 방식 제공
+![Login](https://github.com/ChaeEun0112/UI-UX/blob/main/Login.png)
 - Main
   - Home 버튼으로 화면 전환 UI
   - Best 5 레시피 제공 및 이미지 클릭 시 레시피 화면 이동
   - 베이킹 도구와 재료 바로 확인 가능
+![Main](https://github.com/ChaeEun0112/UI-UX/blob/main/Main.png)
 - Menu
   - 큰 카테고리 선택 후 세부 카테고리 탐색
   - 선택한 빵의 레시피 화면으로 이동
+![Menu](https://github.com/ChaeEun0112/UI-UX/blob/main/Menu.png)
 - Search
   - 돋보기 아이콘으로 레시피 검색 가능
 - Favorite
