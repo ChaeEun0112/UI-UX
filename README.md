@@ -31,7 +31,7 @@
 - 직관적인 네비게이션으로 쉽게 탐색 가능하도록 구성
 - 레시피,도구,재료 정보를 한눈에 확인할 수 있는 UI 설계
 ## 🛠️ 사용 툴
-| <div align="center">구분<div>| <div align="center">도구</div> |
+| <div align="center">구분</div> | <div align="center">도구</div> |
 |-----|------|
 | <div align="center">Design</div> | <div align="center">Adobe XD</div> |
 ## 💻주요 기능
