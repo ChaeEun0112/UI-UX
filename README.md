@@ -43,25 +43,31 @@
 ![Search](https://github.com/ChaeEun0112/UI-UX/blob/main/Search.png)
 - Favorite
   - 좋아하거나 다시 보고 싶은 레시피 저장
+![Favorite](https://github.com/ChaeEun0112/UI-UX/blob/main/Favorite.png)
 - My page
   - 프로필, 아이디, Favorite 수, 주문 정보 확인 
   - Log Out 클릭 시 로그인 화면으로 이동
+![Mypage](https://github.com/ChaeEun0112/UI-UX/blob/main/Mypage.png)
 - Bread Category
   - 기본 빵 / 스타일리시한 빵 / 리치한 빵 카테고리 제공
   - 빵 선택 시 해당 레피 화면으로 이동
   - Favorite 추가 및 레시피 공유 가능
+![Bread](https://github.com/ChaeEun0112/UI-UX/blob/main/Bread.png)
 - Food Category
   - 빵과 잘 어울리는 음식 카테고리 제공
   - Category 1 → Category 2로 이동 가능
   - 이미지 클릭 시 레시피 화면 표시
+![Food](https://github.com/ChaeEun0112/UI-UX/blob/main/Food.png)
 - Recipe
   - Recipe 동영상 제공 (시작 / 완료 사진으로 표현)
   - 버튼 및 슬라이드를 통한 화면 전환 가능
   - 빵 이름, 설명, 재료, 과정 확인 가능
+![Recipe](https://github.com/ChaeEun0112/UI-UX/blob/main/Recipe.png)
 - Store
   - 베이킹 도구 및 재료 구매 가능
   - 상품 이름과 가격 표시
   -  Favorite 추가 및 주문 가능
+![Store](https://github.com/ChaeEun0112/UI-UX/blob/main/Store.png)
 ## ✒️디자인
 > Adobe XD
 
